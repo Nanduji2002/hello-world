@@ -1,2 +1,2 @@
 # hello-world
-This is the first time I am going to start GITHUB. V ery excited on this.
+This is the first time I am going to start GITHUB. Very excited on this.
